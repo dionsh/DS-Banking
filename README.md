@@ -79,7 +79,7 @@ DS Banking is built with a strong focus on security:
 
 👨‍💻 Developed By
 
-Developed by Dion Sherifi
+Developed by [Dion Sherifi](https://github.com/dionsh)
 
 
 
