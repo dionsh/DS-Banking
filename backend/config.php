@@ -1,10 +1,10 @@
 <?php
 
 
-$user="root";
-$pass="";
-$server="localhost";
-$dbname="dsbanking";
+$user="DB_USER";
+$pass="DB_PASSWORD";
+$server="DB_HOST";
+$dbname="DB_NAME";
 
 try {
 	
